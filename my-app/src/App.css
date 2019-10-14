@@ -1,0 +1,52 @@
+:root {
+    --mainBlue : #2a2a72;
+    --lightBlue : #009ffd;
+    --mainWhite :#f3f3f3 ;
+    --mainDark :#232528 ;
+    --mainYellow :#ffa400 ;
+    --mainMe :#00848C;
+    --mainYou : #F85C50;
+    --mainBlack : #000000;
+    --mainRed : #E20338;
+   
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    background: #EBEBEB  !important;
+    
+}
+
+.money{
+    color: #000000 !important;
+}
+
+
+
+.nav-link {
+    font-size : 1.5rem;
+    
+}
+
+.badge {
+    color: #000000;
+    background: #F85C50;
+    
+}
+
+.text-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    letter-spacing: 0.1rem;
+    
+}
+
+.text-blue {
+    color: var( --mainMe);
+}
+
+.text-light {
+    color : var( --lightBlue );
+}
+
+
+

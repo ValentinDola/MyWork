@@ -1,0 +1,33 @@
+span {
+    color: #f3f3f3;
+}
+
+thead{
+    font-size: 1.5rem;
+}
+
+.ship{
+    margin-left: 10%;
+    margin-top: 35%;
+}
+
+.Pr{
+    color: black;
+    letter-spacing: 0.05rem;
+}
+
+strong {
+    color:  black ;
+}
+
+.text-title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+    letter-spacing: 0.1rem;
+  
+    
+}
+
+.now{
+    margin-left: 85%;
+    font-size: 1.3rem;
+}

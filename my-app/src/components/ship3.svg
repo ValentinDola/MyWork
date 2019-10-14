@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="910" height="356" viewBox="0 0 910 356">
+  <g id="Group_1" data-name="Group 1" transform="translate(-158 -296)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(158 296)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="10">
+      <rect width="663" height="296" rx="10" stroke="none"/>
+      <rect x="5" y="5" width="653" height="286" rx="5" fill="none"/>
+    </g>
+    <text id="Delivery_within_one_hour" data-name="Delivery within
+one hour" transform="translate(490 426)" fill="#fff" font-size="87" font-family="Questrial-Regular, Questrial"><tspan x="-278.139" y="0">Delivery within</tspan><tspan x="-171.434" y="89">one hour</tspan></text>
+    <g id="Path_1" data-name="Path 1" transform="translate(821.299 379.538)" stroke-linecap="round">
+      <path d="M 240.7128753662109 207.0577239990234 L 5.987872123718262 207.0577239990234 C 5.953872203826904 207.0577239990234 5.792586803436279 206.9822845458984 5.600907802581787 206.7514038085938 C 5.224658012390137 206.2981872558594 5.000015258789063 205.5854644775391 5.000015258789063 204.8448944091797 L 5.000015258789063 7.212862014770508 C 5.000015258789063 6.472290515899658 5.224658012390137 5.759540557861328 5.600907802581787 5.306326389312744 C 5.792586803436279 5.075433254241943 5.953872203826904 5.000004768371582 5.987872123718262 5.000004768371582 L 167.2349395751953 5.000004768371582 L 168.7008666992188 8.951826095581055 L 241.6311645507813 205.5547790527344 C 241.5375213623047 206.0240631103516 241.3530120849609 206.4464569091797 241.0998687744141 206.7514038085938 C 240.9081573486328 206.9822845458984 240.7468719482422 207.0577239990234 240.7128753662109 207.0577239990234 Z" stroke="none"/>
+      <path d="M 10 9.999984741210938 L 10 202.0577392578125 L 235.0009918212891 202.0577392578125 L 164.0130310058594 10.69078063964844 L 163.7567901611328 9.999984741210938 L 10 9.999984741210938 M 5.987869262695313 -1.52587890625e-05 L 200.0536193847656 -1.52587890625e-05 L 240.7128753662109 -1.52587890625e-05 C 244.0198669433594 -1.52587890625e-05 246.7007446289063 3.229324340820313 246.7007446289063 7.212814331054688 L 173.3887481689453 7.212814331054688 L 246.7007446289063 204.8448638916016 C 246.7007446289063 208.8284454345703 244.0198669433594 212.0577392578125 240.7128753662109 212.0577392578125 L 5.987869262695313 212.0577392578125 C 2.680877685546875 212.0577392578125 0 208.8284454345703 0 204.8448638916016 L 0 7.212814331054688 C 0 3.229324340820313 2.680877685546875 -1.52587890625e-05 5.987869262695313 -1.52587890625e-05 Z" stroke="none"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(225 565)" fill="#fff" stroke="#000" stroke-width="8">
+      <ellipse cx="40.5" cy="43.5" rx="40.5" ry="43.5" stroke="none"/>
+      <ellipse cx="40.5" cy="43.5" rx="36.5" ry="39.5" fill="none"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(625 565)" fill="#fff" stroke="#000" stroke-width="8">
+      <ellipse cx="40" cy="43.5" rx="40" ry="43.5" stroke="none"/>
+      <ellipse cx="40" cy="43.5" rx="36" ry="39.5" fill="none"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(901 565)" fill="#fff" stroke="#000" stroke-width="8">
+      <ellipse cx="40" cy="43.5" rx="40" ry="43.5" stroke="none"/>
+      <ellipse cx="40" cy="43.5" rx="36" ry="39.5" fill="none"/>
+    </g>
+    <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(257 599)" fill="#fff" stroke="#000" stroke-width="10">
+      <ellipse cx="9" cy="9.5" rx="9" ry="9.5" stroke="none"/>
+      <ellipse cx="9" cy="9.5" rx="4" ry="4.5" fill="none"/>
+    </g>
+    <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(656 599)" fill="#fff" stroke="#000" stroke-width="10">
+      <ellipse cx="9" cy="9.5" rx="9" ry="9.5" stroke="none"/>
+      <ellipse cx="9" cy="9.5" rx="4" ry="4.5" fill="none"/>
+    </g>
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(932 599)" fill="#fff" stroke="#000" stroke-width="10">
+      <ellipse cx="9" cy="9.5" rx="9" ry="9.5" stroke="none"/>
+      <ellipse cx="9" cy="9.5" rx="4" ry="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>

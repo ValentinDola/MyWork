@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="219.271" height="254.444" viewBox="0 0 219.271 254.444">
+  <g id="Group_1" data-name="Group 1" transform="matrix(0.921, -0.391, 0.391, 0.921, -1352.371, 295.972)">
+    <g id="Group_1-2" data-name="Group 1" transform="translate(729.5 77.5)">
+      <path id="Union_1" data-name="Union 1" d="M69.706,205.833c-16.546,0-33.56-10.1-46.68-27.706C8.178,158.2,0,131.492,0,102.925c0-29.806,9.235-58.3,25.338-78.187L31.93,16.6,19.865,12.1a21.64,21.64,0,0,1-5.537-2.765C17.979,6.261,37.058,0,69.706,0s51.739,6.26,55.4,9.329a21.7,21.7,0,0,1-5.543,2.765l-12.072,4.5,6.6,8.143c16.11,19.888,25.35,48.385,25.35,78.185,0,28.564-8.182,55.271-23.038,75.2C103.274,195.734,86.255,205.833,69.706,205.833Z" transform="translate(612.5 235.5)" fill="#fff" stroke="#fff" stroke-linejoin="round" stroke-width="8"/>
+    </g>
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(1388 313)" stroke="#000" stroke-width="1">
+      <ellipse cx="23.5" cy="7.5" rx="23.5" ry="7.5" stroke="none"/>
+      <ellipse cx="23.5" cy="7.5" rx="23" ry="7" fill="none"/>
+    </g>
+  </g>
+</svg>
